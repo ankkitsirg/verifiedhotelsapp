@@ -1,12 +1,12 @@
-import HeroSection from "./sections/HeroSection";
-import SearchSection from "./sections/SearchSection";
-import PopularDestinations from "./sections/PopularDestinations";
-import FeaturedHotels from "./sections/FeaturedHotels";
-import WhyChooseUs from "./sections/WhyChooseUs";
-import LatestReviews from "./sections/LatestReviews";
-import RealityScoreSection from "./sections/RealityScoreSection";
-import DownloadApp from "./sections/DownloadApp";
-import Newsletter from "./sections/Newsletter";
+import HeroSection from "./Sections/HeroSection";
+import SearchSection from "./Sections/SearchSection";
+import PopularDestinations from "./Sections/PopularDestinations";
+import FeaturedHotels from "./Sections/FeaturedHotels";
+import WhyChooseUs from "./Sections/WhyChooseUs";
+import LatestReviews from "./Sections/LatestReviews";
+import RealityScoreSection from "./Sections/RealityScoreSection";
+import DownloadApp from "./Sections/DownloadApp";
+import Newsletter from "./Sections/Newsletter";
 function Home() {
   return (
     <>
