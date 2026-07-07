@@ -1,0 +1,172 @@
+src/
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── logos/
+│
+├── components/
+│   ├── layout/
+│   │   ├── Navbar/
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── Logo.jsx
+│   │   │   └── MobileMenu.jsx
+│   │   ├── Footer/
+│   │   │   └── Footer.jsx
+│   │   └── Layout.jsx
+│   │
+│   ├── ui/
+│   │   ├── Button.jsx
+│   │   ├── Card.jsx
+│   │   ├── Input.jsx
+│   │   ├── Modal.jsx
+│   │   ├── Badge.jsx
+│   │   ├── Spinner.jsx
+│   │   └── Rating.jsx
+│   │
+│   ├── hotel/
+│   ├── review/
+│   └── common/
+│
+├── pages/
+│   ├── Home/
+│   │   ├── Home.jsx
+│   │   ├── HeroSection.jsx
+│   │   ├── SearchSection.jsx
+│   │   ├── PopularDestinations.jsx
+│   │   ├── FeaturedHotels.jsx
+│   │   ├── WhyChooseUs.jsx
+│   │   ├── RecentReviews.jsx
+│   │   └── index.js
+│   │
+│   ├── Hotels/
+│   │   ├── Hotels.jsx
+│   │   ├── FilterSidebar.jsx
+│   │   ├── HotelGrid.jsx
+│   │   └── index.js
+│   │
+│   ├── HotelDetails/
+│   │   ├── HotelDetails.jsx
+│   │   ├── Gallery.jsx
+│   │   ├── Amenities.jsx
+│   │   ├── ReviewSection.jsx
+│   │   ├── RealityScore.jsx
+│   │   └── index.js
+│   │
+│   ├── Login/
+│   ├── Register/
+│   ├── Wishlist/
+│   ├── Profile/
+│   └── Admin/
+│
+├── data/
+│   ├── hotels.json
+│   ├── reviews.json
+│   ├── destinations.json
+│   ├── users.json
+│   └── faqs.json
+│
+├── constants/
+│   ├── app.js
+│   ├── navigation.js
+│   └── routes.js
+│
+├── hooks/
+│
+├── services/
+│
+├── utils/
+│
+├── routes/
+│
+├── styles/
+│   └── globals.css
+│
+├── App.jsx
+└── main.jsx
+----------------------------------------
+src/
+│
+├── assets/
+│   └── images/
+│       └── hotels/
+│           ├── taj.jpg
+│           ├── oberoi.jpg
+│           ├── leela.jpg
+│           ├── itc.jpg
+│           ├── radisson.jpg
+│           └── marriott.jpg
+│
+├── components/
+│   ├── hotel/
+│   │   └── HotelCard.jsx
+│   │
+│   └── ui/
+│       ├── Rating.jsx
+│       ├── RealityScore.jsx
+│       ├── PriceTag.jsx
+│       └── SectionHeading.jsx
+│
+├── data/
+│   └── hotels.js
+│
+└── pages/
+    └── Home/
+        └── sections/
+            └── FeaturedHotels.jsx
+
+
+
+
+Browse Hotels
+        ↓
+Book Hotel (or verify completed stay)
+        ↓
+Stay at Hotel
+        ↓
+Upload:
+• Review
+• Photos
+• Videos
+• Ratings
+        ↓
+AI + Community Verification
+        ↓
+Reality Score Updated
+        ↓
+Future users can trust the listing
+
+
+Booking Success
+
+        ↓
+
+My Bookings
+
+        ↓
+
+Booking Details
+
+        ↓
+
+Verify Your Stay
+
+        ↓
+
+Upload Review
+
+↓
+
+Upload Photos
+
+↓
+
+Upload Videos
+
+↓
+
+Reality Questions
+
+↓
+
+Submit Verification

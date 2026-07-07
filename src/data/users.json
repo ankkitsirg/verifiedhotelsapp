@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Ankit Gupta",
+    "email": "ankit@example.com",
+    "avatar": "/images/users/user1.jpg",
+    "verified": true
+  }
+]

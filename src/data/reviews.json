@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "hotelId": 1,
+    "userId": 2,
+    "rating": 5,
+    "title": "Excellent Stay",
+    "review": "Rooms were clean and exactly matched the photos.",
+    "verifiedStay": true,
+    "date": "2026-07-01",
+    "images": [
+      "/images/reviews/review1.jpg"
+    ]
+  }
+]

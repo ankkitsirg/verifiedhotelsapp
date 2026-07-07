@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Goa",
+    "image": "/images/goa.jpg",
+    "hotels": 120
+  },
+  {
+    "id": 2,
+    "name": "Manali",
+    "image": "/images/manali.jpg",
+    "hotels": 85
+  },
+  {
+    "id": 3,
+    "name": "Jaipur",
+    "image": "/images/jaipur.jpg",
+    "hotels": 95
+  },
+  {
+    "id": 4,
+    "name": "Udaipur",
+    "image": "/images/udaipur.jpg",
+    "hotels": 65
+  },
+  {
+    "id": 5,
+    "name": "Shimla",
+    "image": "/images/shimla.jpg",
+    "hotels": 78
+  },
+  {
+    "id": 6,
+    "name": "Kerala",
+    "image": "/images/kerala.jpg",
+    "hotels": 140
+  }
+]

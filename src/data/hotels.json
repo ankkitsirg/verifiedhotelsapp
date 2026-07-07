@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "The Grand Palace",
+    "city": "Delhi",
+    "state": "Delhi",
+    "country": "India",
+    "pricePerNight": 4500,
+    "rating": 4.5,
+    "realityScore": 92,
+    "verified": true,
+    "description": "Luxury hotel in the heart of Delhi.",
+    "thumbnail": "/images/hotels/grand-palace.jpg",
+    "gallery": [
+      "/images/hotels/grand1.jpg",
+      "/images/hotels/grand2.jpg",
+      "/images/hotels/grand3.jpg"
+    ],
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Restaurant",
+      "Parking"
+    ],
+    "location": {
+      "lat": 28.6139,
+      "lng": 77.2090
+    }
+  }
+]
