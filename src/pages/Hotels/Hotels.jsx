@@ -2,10 +2,10 @@ import { useMemo, useState } from "react";
 import { useEffect } from "react";
 import { hotels } from "@/data/hotels";
 
-import HotelsHeader from "./sections/HotelsHeader";
-import HotelFilters from "./sections/HotelFilters";
-import HotelSort from "./sections/HotelSort";
-import HotelGrid from "./sections/HotelGrid";
+import HotelsHeader from "./Sections/HotelsHeader";
+import HotelFilters from "./Sections/HotelFilters";
+import HotelSort from "./Sections/HotelSort";
+import HotelGrid from "./Sections/HotelGrid";
 
 import HotelSearch from "@/components/hotel/HotelSearch";
 import Pagination from "@/components/hotel/Pagination";
